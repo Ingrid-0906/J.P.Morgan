@@ -15,7 +15,7 @@ Task 4 - Provide an investment recommendation
 Any doubt, please, contact me by my portfolio.
 Ingrid Cadu
 
-<br>
+#
 Versão em Português
 # J.P.Morgan Experiência Virtual de Investimento Bancário
 Estágio 2021
